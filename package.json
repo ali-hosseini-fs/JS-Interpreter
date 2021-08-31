@@ -1,7 +1,7 @@
 {
-  "name": "js-interpreter",
-  "version": "2.4.0",
-  "description": "NPM package for https://github.com/NeilFraser/JS-Interpreter",
+  "name": "js-interpreter-deriv",
+  "version": "2.5.0",
+  "description": "Forked of JS-interpreter https://www.npmjs.com/package/js-interpreter with latest Node/webpack/npm support",
   "main": "lib/js-interpreter.min.js",
   "module": "lib/js-interpreter.js",
   "bin": "lib/cli.min.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aminmarashi/JS-Interpreter.git"
+    "url": "git+https://github.com/ali-hosseini-fs/JS-Interpreter.git"
   },
-  "author": "Amin Marashi",
+  "author": "Ali Hosseini",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aminmarashi/JS-Interpreter/issues"
+    "url": "https://github.com/ali-hosseini-fs/JS-Interpreter/issues"
   },
-  "homepage": "https://github.com/aminmarashi/JS-Interpreter#readme",
+  "homepage": "https://github.com/ali-hosseini-fs/JS-Interpreter#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
