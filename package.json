@@ -1,5 +1,5 @@
 {
-  "name": "js-interpreter-deriv",
+  "name": "@deriv/js-interpreter",
   "version": "2.5.0",
   "description": "Forked of JS-interpreter https://www.npmjs.com/package/js-interpreter with latest Node/webpack/npm support",
   "main": "lib/js-interpreter.min.js",

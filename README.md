@@ -1,4 +1,4 @@
-# js-interpreter-deriv
+# @deriv/js-interpreter
 Since the original js-interpreter package is deprecated, I forked the repo to fix some problem on it to support latest node/webpack/npm
 
 This is An npm package for the [Neil Fraser's JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter)
@@ -13,7 +13,7 @@ Changes are recorded on a best effort basis in [CHANGELOG.md](CHANGELOG.md).
 
 # Installation
 
-`npm install js-interpreter-deriv`
+`npm install @deriv/js-interpreter`
 
 # Usage
 
