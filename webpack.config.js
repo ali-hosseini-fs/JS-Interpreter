@@ -17,6 +17,9 @@ function interpreterConfig(
             libraryTarget: 'umd',
             path         : path.resolve(__dirname, 'lib'),
         },
+        resolve: {
+            fallback: {"vm": require.resolve("vm-browserify")}
+        },
         plugins: [
             new webpack.ProvidePlugin({
                 acorn: path.resolve(__dirname, 'original-repo', 'acorn.js')
